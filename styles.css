@@ -1,0 +1,16 @@
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: #69db34;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 5px solid #69db34;
+}
+
+h1 {
+  color: #69db34;
+}/*# sourceMappingURL=styles.css.map */
